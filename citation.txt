@@ -2,7 +2,6 @@
     author = "Chang, Ying{-}Ying and Wang, Wei{-}Yao and Peng, Wen{-}Chih",
     booktitle = "{AAAI}",
     pages = "30-37",
-    publisher = "{AAAI} Press",
     title = "{SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter}",
     year = "2024"
 }
